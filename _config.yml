@@ -13,8 +13,9 @@ author: Options
 
 # --- List of links in the navigation bar --- #
 
-#navbar-links:
-#  About Me: "aboutme"
+navbar-links:
+  About Me: "explus.work"
+  Download: "到下载页面"
 #  Resources:
 #    - Beautiful Jekyll: "https://beautifuljekyll.com"
 #    - Learn markdown: "https://www.markdowntutorial.com/"
